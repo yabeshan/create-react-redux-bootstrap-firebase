@@ -6,8 +6,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/notrab/create-react-app-redux.git
-cd create-react-app-redux
+git clone https://github.com/yabeshan/create-react-redux-bootstrap-firebase
+cd create-react-redux-bootstrap-firebase
 yarn
 ```
 
